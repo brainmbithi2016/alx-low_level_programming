@@ -7,8 +7,7 @@
  * main - prints a string on console
  *
  *
- * Return: 0 when all goes well
- *
+ * Return:  0 when all goes well
  *
  */
 
