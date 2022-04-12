@@ -3,7 +3,6 @@
 
 /**
  * _abs - value absolute
- *
  * @n: The int to print 
  * Return: Always 0.
  */
