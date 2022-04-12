@@ -16,6 +16,6 @@ void print_to_98(int n)
 	else
 	{
 		for (n = n; n > 98; n--)
-			ptintf("%d\n", 98);
+			printf("%d\n", 98);
 	}
 }
