@@ -2,7 +2,7 @@
 /**
  * _isalpha - Return 1 if c is a letter. lowecase or uppercase
  * @c: The int to print
- * return: Always 0.
+ * return: 0 or 1.
  */
 
 int _isalpha(int c)
