@@ -2,11 +2,12 @@
 
 /**
  * main - Entry point
- * Returns: nothing, return void
+ *
+ * Returns: Always 0
  */
 
 int main(void)
-	/* local variable declaration */
+ 
 {
 	_putchar('_');
 	_putchar('p');
