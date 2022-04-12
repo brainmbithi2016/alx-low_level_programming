@@ -6,6 +6,7 @@
  */
 
 int main(void)
+	/* local variable declaration */
 {
 	_putchar('_');
 	_putchar('p');
