@@ -13,7 +13,8 @@ int main(void)
 
 	/* while (i < 10)*/
 	/*{*/
-	/*putchar(i);*/
+	/*infinite loop - No increase of variable
+	 * putchar(i);*/
 	/*}*/
 
 	print("infinite loop avoided! \\o/\n");
