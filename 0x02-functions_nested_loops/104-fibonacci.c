@@ -36,7 +36,7 @@ for (i =92; i < 99; ++i)
 	aft1 =  aft1 + bef1;
 	bef1 = aft1 - bef1;
 	aft2 = aft2 + bef2;
-	bef2 = aft2 - bef2:
+	bef2 = aft2 - bef2;
 }
 printf("\n");
-retun (0);}
+return (0);}
